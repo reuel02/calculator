@@ -17,11 +17,11 @@ Esse projeto é uma calculadora que realiza as operações básicas da matemáti
 
 ### Desktop
 
-<img src=".github/print-desktop.jpg"/>
+<img style="width: 400; height: 200;" src=".github/print-desktop.jpg"/>
 
 ### Mobile
 
-<img src=".github/print-mobile.jpg"/>
+<img style="width: 200; height: 400;" src=".github/print-mobile.jpg"/>
 
 ### Fucionalidades do Projeto
 
