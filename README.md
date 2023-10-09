@@ -3,7 +3,7 @@
 Esse projeto é uma calculadora que realiza as operações básicas da matemática (soma, subtração, multiplicação e divisão), fiz ele para concretizar alguns conhecimentos de DOM (Document Object Model), interatividade com JavaScript e conceitos de HTML e CSS.
 
 
-[Projeto disponível](https://projetocss-jesscoder.netlify.app/)
+[Projeto disponível](https://reuel02.github.io/calculator/)
 
 ### Linguagens e Ferramentas
 
