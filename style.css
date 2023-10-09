@@ -1,6 +1,7 @@
 body {
-    background-image: url(images/bg-desktop.jpg);
+    background: url(images/bg-desktop.jpg) no-repeat top;
     font-size: 20px;
+    background-size: cover;
 }
 
 #calculator {
